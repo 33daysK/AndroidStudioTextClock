@@ -1,1 +1,4 @@
-# AndroidStudioTextClock
+# AndroidStudioTextClocktest
+
+アンドロイドスタジオでのテキストクロックのテストです。
+うまく動かないのでとりあえずgithubに挙げて環境のチェックをしてもらいたいと思います。
